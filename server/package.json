@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@react-google-maps/api": "^2.20.8",
+    "axios": "^1.16.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "i18next": "^26.0.10",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.3.3",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.4",
+    "nodemon": "^3.1.14",
+    "puppeteer": "^24.42.0",
+    "react-i18next": "^17.0.7",
+    "react-router-dom": "^7.15.0",
+    "socket.io": "^4.8.3"
+  }
+}
